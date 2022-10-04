@@ -2,6 +2,7 @@ import styled from '@emotion/styled';
 
 export const GalleryBox = styled.section`
   padding-top: 80px;
+  margin-bottom: 20px;
 `;
 
 export const ImageGalleryList = styled.ul`
